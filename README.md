@@ -8,10 +8,12 @@
 - 📫 How to reach me: [Twitter - @gopal_chovatiya](https://twitter.com/gopal_chovatiya) , [Instagram - @gopal_chovatiya_1295](https://www.instagram.com/gopal_chovatiya_1295/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours Gaming everyday.
-- 📖 Skills: C/C++/Dart/Flutter
 
+## Skills 
+* 📖 C/
+* C++/Dart/Flutter
+## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gops1295)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
