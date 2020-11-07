@@ -10,8 +10,7 @@
 - ⚡ Fun fact: I spend almost 12 hours Gaming everyday.
 
 ## Skills 
-* 📖 C/
-* C++/Dart/Flutter
+* 📖 C/C++/Dart/Flutter
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gops1295)](https://github.com/anuraghazra/github-readme-stats)
 
